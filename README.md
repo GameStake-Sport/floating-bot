@@ -16,9 +16,6 @@ The playground's visual design is intentionally limited to help make the code ea
 
 The playground has not undergone a formal security audit.
 
-> **Note**  
-> You might also be interested in our Vue playground: Coming soon
->
 ## 1 Setup botAddress in src/main.tsx
 
 ## 2 Install the package
