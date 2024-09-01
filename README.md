@@ -1,6 +1,6 @@
-# XMTP React playground
+# XMTP Floating Chat
 
-Use the XMTP React playground app as a tool to help you build your own app with XMTP.
+Use the XMTP React playground.
 
 Built with React and the [XMTP JavaScript SDK](https://github.com/xmtp/xmtp-js), the playground provides the following functionality that you can use as a foundation for your app:
 
@@ -18,17 +18,19 @@ The playground has not undergone a formal security audit.
 
 > **Note**  
 > You might also be interested in our Vue playground: Coming soon
+>
+## 1 Setup botAddress in src/main.tsx
 
-## Install the package
+## 2 Install the package
 
 ```bash
 npm install
 ```
 
-## Run the development server
+## 3 Run the development server
 
 ```bash
 npm run dev
 ```
 
-Open [http://localhost:5173](http://localhost:5173) in your browser to access the XMTP React playground app.
+Open [http://localhost:5173](http://localhost:5173) in your browser to access the XMTP Floating Chat
