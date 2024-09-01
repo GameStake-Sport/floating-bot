@@ -18,7 +18,7 @@ async function conversationLoader({ params }: any) {
   const conversation = await findConversation(params.conversationTopic);
   return { conversation };
 }
-const botAddress = '0x945bfAa51cD12870CAE5e0C576483a69e97fe58c';
+const botAddress = 'SETUP_WALLET_ADDRESS';
 const router = createHashRouter([
   {
     path: "*",
